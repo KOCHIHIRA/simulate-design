@@ -1,0 +1,38 @@
+.sidebar {
+    width: 280px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    background-color: rgb(233, 101, 60);
+}
+
+.sidebar-menu {
+    padding: 1rem;
+}
+
+.sidebar ul {
+    width: 100%;
+    margin: 0 auto;
+    list-style-type: none;
+    text-align: center;
+}
+
+.sidebar li {
+    padding: 0.25rem;
+    font-size: 1rem;
+    margin-top: 0.5em;
+    background-color:rgb(231, 171, 80);
+}
+
+.sidebar li:hover {
+    color: rgb(231, 171, 80);
+    background-color: #fff;
+}
+.sidebar .create-project {
+    padding: 0.5rem;
+    border-radius: 3rem;
+    cursor: pointer;
+    background-color: #fff;
+}
