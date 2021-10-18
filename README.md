@@ -1,3 +1,18 @@
+Electronを使用したデスクトップアプリを開発中です
+
+
+開発目的
+・前に書いたJavaのソースコードがごちゃごちゃで分かりにくいので、
+要件定義、スケジュール、デザインなど設計をアプリを作りながらファイルにして整理してくれる自分用アプリ
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
